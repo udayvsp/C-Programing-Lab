@@ -1,0 +1,10 @@
+// title of program
+//program to print hello world using tab character
+// header files
+#include <stdio.h>
+// function heading
+Void main()
+{
+//output statement
+Printf(“hello world\t hello world”);
+}
