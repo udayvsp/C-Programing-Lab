@@ -1,2 +1,2 @@
-# uday9
+# c programming 
 a code hosting platform..
